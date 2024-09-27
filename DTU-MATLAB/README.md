@@ -38,8 +38,8 @@ Since it takes a long time to evaluate (5 hours using default settings...), I pr
 | *[PointMVSNet](https://github.com/callmeray/PointMVSNet) | 0.6344 | 0.6481 | 0.6412 | 1280x960 |
 | [UCSNet](https://github.com/touristCheng/UCSNet) paper | 0.330 | 0.372 | 0.351 | 1600x1184 |
 | [PVAMVSNet](https://github.com/yhw-yhw/PVAMVSNet) paper | 0.372 | 0.350 | 0.361 | 1600x1184 |
-| [TransMVSNet](https://github.com/megvii-research/TransMVSNet) paper | 0.333 | 0.301 | 0.317 | 1152x864 |
-| *This repo(FAWO-MVSNet) | 0.313 | 0.311 | 0.305 | 1152x864 |
+| [TransMVSNet(Normal)](https://github.com/megvii-research/TransMVSNet) paper | 0.333 | 0.301 | 0.317 | 1152x864 |
+| *This repo(FAWO-MVSNet,Normal) | 0.313 | 0.311 | 0.305 | 1152x864 |
 
 1. The number of views used is 5 for all methods.
 2. Generally, larger resolution leads to better result.
