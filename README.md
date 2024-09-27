@@ -10,10 +10,12 @@
 ### 1.DTU
 训练：
 训练集中包括[DTU training data](https://drive.google.com/file/d/1eDjh-_bxKKnEuz5h-HXS7EDJn59clx6V/view)和[Depths_raw](https://virutalbuy-public.oss-cn-hangzhou.aliyuncs.com/share/cascade-stereo/CasMVSNet/dtu_data/dtu_train_hr/Depths_raw.zip)数据来源(https://github.com/YoYo000/MVSNet))
+
 评估：
 
 ### 2.BlendedMVS和Tanks and Temples
 训练：
 我们使用BlendedMVS的低分辨率集进行训练[low-res set](https://1drv.ms/u/s!Ag8Dbz2Aqc81gVDgxb8MDGgoV74S?e=hJKlvV).
+
 评估：
 我们使用Tanks and Temples[Tanks and Temples dataset](https://drive.google.com/file/d/1IHG5GCJK1pDVhDtTHFS3sY-ePaK75Qzg/view?usp=sharing)对训练好的模型进行评估
